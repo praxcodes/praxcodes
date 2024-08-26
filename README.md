@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praxcodes
 - 👀 I’m interested in Software Development and Machine Learning.
-- 🌱 I’m currently learning Backend Development.
+- 🌱 I’m currently learning Blockchain and Generative AI.
 - 💞️ I’m looking to collaborate on an innovative project.
 - 📫 How to reach me prakritgargprof@gmail.com
 - 😄 Pronouns: she/her
